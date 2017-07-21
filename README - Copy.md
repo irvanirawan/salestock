@@ -1,2 +1,0 @@
-# salestock
-Point Of Sale
